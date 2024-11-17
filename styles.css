@@ -3,7 +3,7 @@ body{
 	padding: 5px;
 	
 }
-.author{
+span{
 	font-style: italic;
 	display: flex;
 	justify-content: right;
